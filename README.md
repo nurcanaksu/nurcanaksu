@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="8000" height="400"  />
 
 <h1 align="center">Hi, I'm Nurcan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<h3 align="center">A Computer Engineering student from Turkey :computer: </h3>
+<h3 align="center">A Computer Engineer from Turkey :computer: </h3>
 
 
 
